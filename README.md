@@ -9,4 +9,7 @@ Hi there 👋 I'm paindoll, 18 y.o. and from Mother Russia. I'm interested in pr
 ## 🧢 Projects
 ![counter](https://count.getloli.com/get/@:paindoll?theme=gelbooru)
 
-#### To be posted here soon...
+#### Go:
+-[paindoll/discordbot](https://github.com/paindoll/discordbot), describes itself
+
+#### To be extended soon...
