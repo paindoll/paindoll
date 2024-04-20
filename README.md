@@ -7,6 +7,6 @@ Hi there 👋 I'm paindoll, 18 y.o. and from Mother Russia. I'm interested in pr
 - ![Youtube Logo](https://youtube.com/favicon.ico) __Youtube__ - [pa1nd0ll](https://www.youtube.com/@pa1nd0ll)
 
 ## 🧢 Projects
-![counter](https://count.getloli.com/get/@:paindoll?theme=gelbooru)\
+![counter](https://count.getloli.com/get/@:paindoll?theme=gelbooru)
 
 #### To be posted here soon...
